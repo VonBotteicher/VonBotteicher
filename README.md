@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VonBotteicher
 - 👀 I’m interested in Bitcoin, embedded devices, image processing, ultrasound imaging, unmanned aerial systems and other things!
 - 🌱 I’m currently learning Bitcoin Core
-- 💞️ I’m looking to collaborate on embedded bitcoin applicaitons
+- 💞️ I’m looking to collaborate on embedded bitcoin applications
 - 📫 How to reach me - von.botteicher@gmail.com
 
 <!---
